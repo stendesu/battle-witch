@@ -1,0 +1,3 @@
+camera ortho width range  ->	1000	->	6000
+camera vertical location range  ->	240	->	1480
+camera horizontal location range  ->	DEFAULT:  -600	->	600
