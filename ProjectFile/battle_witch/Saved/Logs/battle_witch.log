@@ -7087,3 +7087,74 @@ Saving these assets will allow them to be unloaded.
 [2024.10.16-18.19.03:610][748]LogPython: Display: Object '/Engine/PythonTypes.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
 [2024.10.16-18.19.03:610][748]LogPython: Display: Object '/Engine/PythonTypes.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
 [2024.10.16-18.19.03:610][748]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.10.16-18.19.05:371][748]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.16-18.19.05:371][748]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.16-18.19.05:371][748]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.16-18.19.05:371][748]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.16-18.19.05:371][748]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.16-18.19.05:371][748]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.16-18.19.05:371][748]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.16-18.19.05:371][748]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.10.16-18.19.05:372][748]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.16-18.19.05:372][748]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.16-18.19.05:372][748]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.16-18.19.05:372][748]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.16-18.19.05:372][748]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.16-18.19.05:372][748]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.16-18.19.05:372][748]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.16-18.19.05:372][748]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.10.16-18.19.05:372][748]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.10.16-18.19.05:373][748]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.16-18.19.05:373][748]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.16-18.19.05:373][748]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.16-18.19.05:373][748]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.16-18.19.05:373][748]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.16-18.19.05:373][748]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.16-18.19.05:373][748]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.16-18.19.05:373][748]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.10.16-18.19.05:373][748]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.16-18.19.05:373][748]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.16-18.19.05:373][748]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.16-18.19.05:373][748]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.16-18.19.05:373][748]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.16-18.19.05:373][748]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.16-18.19.05:373][748]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.10.16-18.19.05:373][748]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.10.16-18.19.05:493][748]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2024.10.16-18.19.05:621][748]LogExit: Editor shut down
+[2024.10.16-18.19.05:624][748]LogExit: Transaction tracking system shut down
+[2024.10.16-18.19.08:046][748]LogExit: Object subsystem successfully closed.
+[2024.10.16-18.19.08:051][748]LogShaderCompilers: Display: ================================================
+[2024.10.16-18.19.08:051][748]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.10.16-18.19.08:051][748]LogShaderCompilers: Display: Total job queries 83, among them cache hits 1 (1.20%)
+[2024.10.16-18.19.08:051][748]LogShaderCompilers: Display: Tracking 82 distinct input hashes that result in 69 distinct outputs (84.15%)
+[2024.10.16-18.19.08:051][748]LogShaderCompilers: Display: RAM used: 2.28 MiB of 1.60 GiB budget. Usage: 0.14%
+[2024.10.16-18.19.08:051][748]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.10.16-18.19.08:051][748]LogShaderCompilers: Display: Shaders Compiled: 82
+[2024.10.16-18.19.08:051][748]LogShaderCompilers: Display: Jobs assigned 82, completed 82 (100.00%)
+[2024.10.16-18.19.08:051][748]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2024.10.16-18.19.08:051][748]LogShaderCompilers: Display: Time job spent in pending queue: average 2.88 s, longest 8.95 s
+[2024.10.16-18.19.08:051][748]LogShaderCompilers: Display: Job execution time: average 4.63 s, max 7.76 s
+[2024.10.16-18.19.08:051][748]LogShaderCompilers: Display: Job life time (pending + execution): average 7.51 s, max 9.66
+[2024.10.16-18.19.08:051][748]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 9.83 s
+[2024.10.16-18.19.08:051][748]LogShaderCompilers: Display: Jobs were issued in 24 batches (only local compilation was used), average 3.42 jobs/batch
+[2024.10.16-18.19.08:051][748]LogShaderCompilers: Display: Average processing rate: 8.34 jobs/sec
+[2024.10.16-18.19.08:051][748]LogShaderCompilers: Display: Total thread time: 50.08 s
+[2024.10.16-18.19.08:051][748]LogShaderCompilers: Display: Total thread preprocess time: 1.973 s
+[2024.10.16-18.19.08:051][748]LogShaderCompilers: Display: Percentage time preprocessing: 3.94%
+[2024.10.16-18.19.08:051][748]LogShaderCompilers: Display: Effective parallelization: 5.10 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.10.16-18.19.08:051][748]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.10.16-18.19.08:052][748]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyLQSkylight (compiled    4 times, average 0.79 sec, max 1.11 sec, min 0.50 sec)
+[2024.10.16-18.19.08:052][748]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    4 times, average 0.79 sec, max 1.16 sec, min 0.39 sec)
+[2024.10.16-18.19.08:052][748]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    4 times, average 0.77 sec, max 1.10 sec, min 0.47 sec)
+[2024.10.16-18.19.08:052][748]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyLQ (compiled    4 times, average 0.74 sec, max 1.09 sec, min 0.36 sec)
+[2024.10.16-18.19.08:052][748]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyHQSkylight (compiled    4 times, average 0.71 sec, max 1.10 sec, min 0.39 sec)
+[2024.10.16-18.19.08:052][748]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.10.16-18.19.08:052][748]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyLQSkylight - 6.33% of total time (compiled    4 times, average 0.79 sec, max 1.11 sec, min 0.50 sec)
+[2024.10.16-18.19.08:052][748]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight - 6.31% of total time (compiled    4 times, average 0.79 sec, max 1.16 sec, min 0.39 sec)
+[2024.10.16-18.19.08:052][748]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ - 6.15% of total time (compiled    4 times, average 0.77 sec, max 1.10 sec, min 0.47 sec)
+[2024.10.16-18.19.08:052][748]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyLQ - 5.89% of total time (compiled    4 times, average 0.74 sec, max 1.09 sec, min 0.36 sec)
+[2024.10.16-18.19.08:052][748]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyHQSkylight - 5.66% of total time (compiled    4 times, average 0.71 sec, max 1.10 sec, min 0.39 sec)
+[2024.10.16-18.19.08:052][748]LogShaderCompilers: Display: ================================================
+[2024.10.16-18.19.08:124][748]LogShaderCompilers: Display: Shaders left to compile 0
+[2024.10.16-18.19.08:259][748]LogVirtualization: UE::Virtualization was shutdown
